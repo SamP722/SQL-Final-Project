@@ -19,7 +19,7 @@ ORDER BY total_revenue DESC;
 
 Answer:
 
-The data shows that only the USA was the only 
+The data shows that the USA had the highest level of transactions placed.
 
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**
@@ -64,7 +64,7 @@ ORDER BY avg_products_per_visitor DESC;
 
 Answer:
 
-The top two countries were Spain(10) and the USA (4). The table shows that the average for all other countries was only 1 product per purchase. 
+The top two countries were Spain(10) and the USA (4). The table shows that the average for all other countries was only 1 product per purchase. A bit confusing and frustrating as the first question contradicts this point and further investigation is needed.
 
 
 

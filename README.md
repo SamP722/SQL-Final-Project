@@ -39,9 +39,8 @@ The data was dense and at times overwhelming, which made staying focused on one 
 ## Future Goals
 
 If I had more time, I would:
-- Join more tables such as traffic_sources and user_info to explore deeper visitor behavior.  
+- Join more tables such as traffic_sources and user_info to explore deeper visitor behaviour.  
 - Calculate visitor lifetime value across multiple sessions.  
 - Build a cleaner product category structure for more reliable analysis.  
-- Explore time-based trends in traffic and sales.  
-- Visualize the results using a dashboard tool like Tableau 
+- Explore time-based trends in traffic and sales, and more importantly how to convert the non purchasers as they spent nearly 8 minutes more on the site than those who purchased. 
 
